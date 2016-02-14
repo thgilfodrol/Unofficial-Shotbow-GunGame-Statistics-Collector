@@ -1,0 +1,6 @@
+c:\users\yafu\documents\visual studio 2015\Projects\SBGunGameStatisticsCollector\SBGunGameStatisticsCollector\bin\Debug\SBGunGameStatisticsCollector.exe.config
+c:\users\yafu\documents\visual studio 2015\Projects\SBGunGameStatisticsCollector\SBGunGameStatisticsCollector\bin\Debug\SBGunGameStatisticsCollector.exe
+c:\users\yafu\documents\visual studio 2015\Projects\SBGunGameStatisticsCollector\SBGunGameStatisticsCollector\bin\Debug\SBGunGameStatisticsCollector.pdb
+c:\users\yafu\documents\visual studio 2015\Projects\SBGunGameStatisticsCollector\SBGunGameStatisticsCollector\obj\Debug\SBGunGameStatisticsCollector.csprojResolveAssemblyReference.cache
+c:\users\yafu\documents\visual studio 2015\Projects\SBGunGameStatisticsCollector\SBGunGameStatisticsCollector\obj\Debug\SBGunGameStatisticsCollector.exe
+c:\users\yafu\documents\visual studio 2015\Projects\SBGunGameStatisticsCollector\SBGunGameStatisticsCollector\obj\Debug\SBGunGameStatisticsCollector.pdb
